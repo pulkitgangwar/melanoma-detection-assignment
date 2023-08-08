@@ -24,7 +24,7 @@
 
 
 ## Conclusions
-- In Progress
+- Final Model has Training accuracy of 76% and Validation accuracy of 70%. Final model is using augmented images with original images.
 
 
 
